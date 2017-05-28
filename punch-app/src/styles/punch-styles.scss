@@ -1,0 +1,75 @@
+.punch {
+
+  &__header {
+    height: 500px;
+    width: 200px;
+    margin: 0 auto;
+    background-image: url( '../assets/bag.png' );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+  }
+
+  .game-over {
+    background-image: url( '../assets/bag-burst.png' )
+  }
+
+  .first-half {
+    color: white;
+  }
+
+  .second-half {
+    color: black;
+  }
+
+  .punch-one-third {
+    background-color: #009688;
+  }
+
+  .punch-two-third {
+    background-color: #ffc107;
+  }
+
+  .punch-three-third {
+    background-color: #f50057;
+  }
+
+  &__main {
+    padding: 2rem 0;
+  }
+
+  &__progress {
+    max-width: 800px;
+    margin: 0 auto;
+    border: .3rem solid rgba( #000, .8 );
+    border-radius: .4rem;
+    position: relative;
+  }
+
+  &__inner {
+    height: 4rem;
+  }
+
+  &__text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 1.8rem;
+    text-transform: capitalize;
+  }
+
+  &__footer {
+    padding: 1rem 0;
+  }
+
+  &__control {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  &__button {
+    margin: 0 1rem;
+    text-transform: capitalize;
+  }
+}
