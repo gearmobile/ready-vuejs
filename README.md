@@ -12,3 +12,4 @@ Deploy Heroku:
   * weight-calc
   * fuel-consumption
   * turnout-app
+  * stock-trader-app
