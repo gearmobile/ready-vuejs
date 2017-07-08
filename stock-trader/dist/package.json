@@ -1,0 +1,10 @@
+{
+  "name": "stock-trader-app",
+  "version": "1.0.0",
+  "description": "stock-trader-app",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
