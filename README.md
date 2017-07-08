@@ -11,3 +11,4 @@ Deploy Heroku:
   * yandex-translator
   * weight-calc
   * fuel-consumption
+  * turnout-app
