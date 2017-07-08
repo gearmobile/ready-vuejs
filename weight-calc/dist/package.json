@@ -1,0 +1,10 @@
+{
+  "name": "weight-calc-app",
+  "version": "1.0.0",
+  "description": "The calculation of the mass of the pancake for the rod on the outer diameter, inner diameter and thickness",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
