@@ -1,0 +1,10 @@
+{
+  "name": "turnout-firebase-app",
+  "version": "1.0.0",
+  "description": "Authorization Firebase. Adding records to Firebase. Add accounts in Firebase.",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
