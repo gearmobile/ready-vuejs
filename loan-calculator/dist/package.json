@@ -1,0 +1,10 @@
+{
+  "name": "pawnshop-calculator",
+  "version": "1.0.0",
+  "description": "The car is secured. The calculation of the amount of the deposit.",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
