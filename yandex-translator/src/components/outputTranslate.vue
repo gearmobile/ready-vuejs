@@ -1,7 +1,8 @@
 <template lang="pug">
   .output
     .panel.panel-success
-      .panel-body {{ outputText }}
+      .panel-body
+        | {{ outputText }}
 </template>
 
 <script>
@@ -16,6 +17,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
   .output {
     margin: 40px 0;
 
@@ -26,4 +28,5 @@ export default {
       font-size: 24px;
     }
   }
+  
 </style>
