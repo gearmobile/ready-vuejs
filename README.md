@@ -3,8 +3,9 @@ Ready Vue.js Examples
 
 Доработать:
 
-  * soundcloud-player
+  * soundcloud-player ( доработать систему управления )
   * unsplash-app ( добавить поддержку masonry layout )
+  * movies-app ( не работает поиск )
 
 Deploy Heroku:
 
