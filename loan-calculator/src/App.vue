@@ -5,7 +5,7 @@
     v-container
 
       v-flex.text-xs-center.my-5( xs12, md8, offset-md2 )
-          h2.display-2
+          h3.display-1
             | Рассчитайте займ под залог автомобиля прямо сейчас!
 
       v-card.pa-5.indigo.lighten-4
