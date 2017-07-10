@@ -25,7 +25,7 @@
 
         main.elevation-6
           v-layout( row, wrap )
-            v-flex.text-xs-right.blue.darken-1.white--text.loan-calc--vert( xs12, md4 )
+            v-flex.text-xs-right.blue.darken-1.white--text.loan-calc--vert.hidden-sm-and-down( xs12, md4 )
               h4.white--text.mb-0.pr-2
                 | автоломбард
               p.mb-0.pr-2
@@ -33,7 +33,7 @@
             v-flex.red.darken-1.py-5.loan-calc--center( xs12, md4 )
               h4.text-xs-center.white--text.mb-0
                 | программа
-            v-flex.text-xs-left.green.darken-1.loan-calc--vert( xs12, md4 )
+            v-flex.text-xs-left.green.darken-1.loan-calc--vert.hidden-sm-and-down( xs12, md4 )
               h4.white--text.mb-0.pl-2
                 | автозалог
               p.mb-0.white--text.pl-2
