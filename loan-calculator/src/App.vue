@@ -17,9 +17,9 @@
             v-card
               v-card-text
                 div.pt-2.loan-calc--align-center
-                  h6.mb-0.indigo--text.loan-calc--noselect {{ cost.min | currency }}
+                  h6.mb-0.indigo--text.hidden-sm-and-down.loan-calc--noselect {{ cost.min | currency }}
                   v-slider.px-4.my-0( :min="cost.min", :max="cost.max", v-model="cost.value", hide-details )
-                  h6.mb-0.indigo--text.loan-calc--noselect {{ cost.max | currency }}
+                  h6.mb-0.indigo--text.hidden-sm-and-down.loan-calc--noselect {{ cost.max | currency }}
                 div.pt-4.loan-calc--align-center
                   h6.mb-0.teal--text.loan-calc--noselect {{ cost.value | currency }}
 
