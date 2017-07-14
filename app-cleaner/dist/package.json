@@ -1,0 +1,10 @@
+{
+  "name": "CleanerApp",
+  "version": "1.0.0",
+  "description": "Calculation of the cost of cleaning the apartment",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
