@@ -1,0 +1,215 @@
+{
+  "data": [
+      {
+      "name": "room",
+      "title": "комната",
+      "value": 1,
+      "price": 1000,
+      "min": 1,
+      "max": 12,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "bathroom",
+      "title": "ванная",
+      "value": 1,
+      "price": 1200,
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "fridge",
+      "title": "холодильник",
+      "value": 0,
+      "price": 300,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "oven",
+      "title": "духовка",
+      "value": 0,
+      "price": 400,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "microwave",
+      "title": "микроволновка",
+      "value": 0,
+      "price": 200,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "kitchen",
+      "title": "кухонный шкаф",
+      "value": 0,
+      "price": 600,
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "crockery",
+      "title": "посуда",
+      "value": 0,
+      "price": 200,
+      "min": 0,
+      "max": 180,
+      "step": 30,
+      "time": 30,
+      "singular": "",
+      "few": "",
+      "plural": ""
+    },
+    {
+      "name": "ironing",
+      "title": "глажка",
+      "value": 0,
+      "price": 400,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 60,
+      "singular": "час",
+      "few": "часа",
+      "plural": "часов"
+    },
+    {
+      "name": "pane",
+      "title": "окно",
+      "value": 0,
+      "price": 200,
+      "min": 0,
+      "max": 30,
+      "step": 1,
+      "time": 15,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "balcony",
+      "title": "балкон",
+      "value": 0,
+      "price": 300,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "wardrobe",
+      "title": "гардеробная",
+      "value": 0,
+      "price": 400,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 30,
+      "singular": "штука",
+      "few": "штуки",
+      "plural": "штук"
+    },
+    {
+      "name": "addtime",
+      "title": "доп. время",
+      "value": 0,
+      "price": 100,
+      "min": 0,
+      "max": 5,
+      "step": 1,
+      "time": 60,
+      "singular": "час",
+      "few": "часа",
+      "plural": "часов"
+    }
+  ],
+  "promotion": {
+    "name": "promotion",
+    "title": "окна",
+    "value": 0,
+    "price": 1000,
+    "min": 0,
+    "max": 25,
+    "step": 5,
+    "time": 30,
+    "singular": "штук",
+    "few": "штук",
+    "plural": "штук"
+  },
+  "discount": [
+    {
+      "name": "oneMonth",
+      "title": "1 раз в месяц",
+      "value": 10,
+      "flag": true
+    },
+    {
+      "name": "twoWeek",
+      "title": "1 раз в 2 недели",
+      "value": 15,
+      "flag": true
+    },
+    {
+      "name": "oneWeek",
+      "title": "1 раз в неделю",
+      "value": 20,
+      "flag": true
+    }
+  ],
+  "promocode": {
+    "name": "promocode",
+    "check": 123,
+    "percent": 12,
+    "status": false,
+    "error": false,
+    "show": true
+  },
+  "customer": {
+    "phone": "",
+    "name": "",
+    "email": "",
+    "date": null,
+    "time": null,
+    "street": null,
+    "entrance": null,
+    "floor": null,
+    "doorphone": null,
+    "metro": "zero",
+    "hoover": false,
+    "comments": ""
+  }
+}
