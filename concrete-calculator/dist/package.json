@@ -1,0 +1,10 @@
+{
+  "name": "concrete-calculator",
+  "version": "1.0.0",
+  "description": "The calculation of the volume of the foundation and the cost of the necessary concrete.",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
