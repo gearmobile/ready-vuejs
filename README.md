@@ -5,7 +5,6 @@ Ready Vue.js Examples
 
   * soundcloud-player ( доработать систему управления )
   * unsplash-app ( добавить поддержку vue-masonry )
-  * movies-app ( не работает поиск )
 
 ## Deploy Heroku:
 
@@ -16,3 +15,9 @@ Ready Vue.js Examples
   * stock-trader-app
   * loan-calculator
   * app-cleaner
+
+## Never Deploy Heroku
+
+  * starbase-app ( пример рабочий, но слишком примитивен )
+  * movies-app ( OMDB изменили API и сделали платной API-подписку; текущий пример перестал быть рабочим по этой причине )
+  * vk-app ( пример рабочий, но слишком примитивен и неполноценный )
