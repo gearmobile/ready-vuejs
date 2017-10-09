@@ -1,0 +1,11 @@
+{
+  "name": "loancalculator",
+  "version": "1.0.0",
+  "description": "Loan calculator",
+  "author": "gearmobile",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+ }
+ 
