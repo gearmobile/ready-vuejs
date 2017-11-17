@@ -1,10 +1,9 @@
 # Ready Vue.js Examples
-Ready Vue.js Examples
 
 ## Доработать:
 
-  * soundcloud-player ( доработать систему управления )
-  * unsplash-app ( добавить поддержку vue-masonry )
+  * soundcloud-player ( *доработать систему управления* )
+  * unsplash-app ( *добавить поддержку vue-masonry* )
 
 ## Deploy Heroku:
 
@@ -15,6 +14,7 @@ Ready Vue.js Examples
   * stock-trader-app
   * loan-calculator
   * app-cleaner
+  * electric-app
 
 ## Never Deploy Heroku
 
