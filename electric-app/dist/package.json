@@ -1,0 +1,10 @@
+{
+ "name": "electric-calculator",
+ "version": "1.0.0",
+ "description": "electric calculator",
+ "author": "Moe Green",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
