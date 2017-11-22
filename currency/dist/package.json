@@ -1,0 +1,10 @@
+{
+  "name": "crypto-currency",
+  "version": "1.0.0",
+  "description": "Crypto Currency Digest",
+  "author": "Moe Green",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
