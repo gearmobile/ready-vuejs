@@ -15,6 +15,7 @@
   * loan-calculator
   * app-cleaner
   * electric-app
+  * currency
 
 ## Never Deploy Heroku
 
