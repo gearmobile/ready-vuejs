@@ -1,0 +1,10 @@
+{
+  "name": "meetup-app",
+  "version": "1.0.0",
+  "description": "Meetup App - Organize Meetups",
+  "author": "Moe Green",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
