@@ -54,7 +54,7 @@
             img(
               :src="meetup.src",
               :alt="meetup.title",
-              style="width: 100%; height: auto"
+              style="width: 100%; height: 300px;"
             )
 
           // DESCRIPTION SECTION
