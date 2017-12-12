@@ -1,9 +1,9 @@
 # Ready Vue.js Examples
 
-## Доработать:
+## To finalize:
 
-  * soundcloud-player ( *доработать систему управления* )
-  * unsplash-app ( *добавить поддержку vue-masonry* )
+  * soundcloud-player ( *refine the control system* )
+  * unsplash-app ( *add support for vue-masonry* )
 
 ## Deploy Heroku:
 
@@ -15,9 +15,10 @@
   * loan-calculator
   * app-cleaner
   * electric-app
+  * currency
 
 ## Never Deploy Heroku
 
-  * starbase-app ( пример рабочий, но слишком примитивен )
-  * movies-app ( OMDB изменили API и сделали платной API-подписку; текущий пример перестал быть рабочим по этой причине )
-  * vk-app ( пример рабочий, но слишком примитивен и неполноценный )
+  * starbase-app ( an example of a work, but too primitive )
+  * movies-app ( OMDB changed the API and did a paid API subscription )
+  * vk-app ( an example works, but too primitive )
