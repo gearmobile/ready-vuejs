@@ -1,0 +1,11 @@
+{
+  "name": "brick-application",
+  "version": "1.0.0",
+  "description": "Brick Calculator",
+  "author": "Moe Greene",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
+ 
