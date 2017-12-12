@@ -1,0 +1,10 @@
+{
+  "title": "Select the type of brick",
+  "subtitle": "Here you can select brick type - single or double",
+  "types": [
+    "Single (250×120×65 mm)",
+    "One and a half (250×120×88 mm)",
+    "Double (250×120×140 mm)",
+    "EURO (250×85×65 mm)"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Add window and door openings",
+  "subtitle": "Here added window and door openings - width and height, in meters",
+  "add-opening": "Add opening",
+  "remove-opening": "Remove",
+  "width": "Width, m",
+  "height": "Height, m",
+  "hint": "Integer"
+}

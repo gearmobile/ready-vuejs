@@ -1,0 +1,8 @@
+{
+  "title": "Add building dimensions",
+  "subtitle": "Here are added building dimensions - width, length and height, in meters",
+  "length": "Length, m",
+  "width": "Width, m",
+  "height": "Height, m",
+  "hint": "Integer"
+}

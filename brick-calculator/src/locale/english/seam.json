@@ -1,0 +1,11 @@
+{
+  "title": "Select the type of seam masonry",
+  "subtitle": "Here you can select the thickness of the mortar joints between the bricks",
+  "types": [
+    "Excluding the mortar seam",
+    "Given the mortar seam thickness 5 mm",
+    "Given the mortar seam thickness 10 mm",
+    "Given the mortar seam thickness 15 mm",
+    "Given the mortar seam thickness 20 mm"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Select the type of masonry",
+  "subtitle": "Here you can select the thickness of the brick wall",
+  "types": [
+    "Laying in 0.5 bricks",
+    "Laying in 1 brick",
+    "Laying in 1.5 bricks",
+    "Laying in 2 bricks",
+    "Laying in 2.5 bricks"
+  ]
+}

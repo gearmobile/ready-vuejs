@@ -1,0 +1,7 @@
+{
+  "title": "The result of the calculation",
+  "subtitle": "Here are shown the results of calculations - totla number of bricks, total cost of bricks, total area of the building",
+  "totalBricks": "The number of bricks, pieces",
+  "totalArea": "Total area, sq. m.",
+  "totalCost": "The total cost"
+}
