@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "pug": "^2.0.0-rc.4",
     "pug-loader": "^2.3.0",
     "reflex-grid": "^2.0.0",
