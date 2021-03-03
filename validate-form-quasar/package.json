@@ -15,7 +15,7 @@
     "material-design-icons": "^3.0.1",
     "moment": "^2.15.0",
     "node-sass": "^4.5.2",
-    "pug": "^2.0.0-rc.1",
+    "pug": "^3.0.1",
     "pug-loader": "^2.3.0",
     "quasar-framework": "^0.13.4",
     "roboto-fontface": "^0.7.0",
