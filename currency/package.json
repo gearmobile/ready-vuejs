@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pug": "^2.0.3",
     "pug-loader": "^2.3.0",
     "sass-loader": "^6.0.6",
